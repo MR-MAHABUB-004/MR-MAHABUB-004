@@ -105,7 +105,7 @@ A Node.js API project.<br/>
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kakashiNN&hide_border=true&currStreakLabel=00b377&ring=5a3fe0&fire=00b377&background=ffffff&sideLabels=1b2a49&currStreakNum=1b2a49&sideNums=1b2a49&dates=55648a">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MR-MAHABUB-004&hide_border=true&currStreakLabel=00b377&ring=5a3fe0&fire=00b377&background=ffffff&sideLabels=1b2a49&currStreakNum=1b2a49&sideNums=1b2a49&dates=55648a">
   <img src="https://streak-stats.demolab.com/?user=MR-MAHABUB-004&hide_border=true&currStreakLabel=00b377&ring=5a3fe0&fire=00b377&background=0a0f1c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
 </picture>
 
